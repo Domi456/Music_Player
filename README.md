@@ -1,1 +1,1 @@
-taglib-sharp.dll is mandatory to execute
+add 'taglib-sharp.dll' to dependecies to execute
